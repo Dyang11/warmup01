@@ -1,0 +1,60 @@
+---
+title: "_The Dominance of the 2016 Golden State Warriors: Perhaps the Best Team Ever_"
+author: "Daniel Yang"
+date: "3/11/2019"
+output: 
+  github_document:
+  fig_caption: TRUE
+---
+
+#### Motivation: The Overpowered Golden State Warriors.
+The 2015-2016 Golden State Warriors (GSW) turned heads by winning a staggering _73 games out of an 82 game season_, an nba record for [most wins in a season](https://www.nba.com/history/top-moments/golden-state-warriors-win-73-games). However, they fell short of winning the championship. 
+
+After the Warriors' collapse in the finals- blowing a 3-1 lead to the Cleveland Cavaliers, they looked to boost the roster to make come back even stronger the next year. A few weeks after the season was over, free agent Kevin Durant expressed interest in joining them. At a meeting in the Hamptons on New York's Long island, the Warriors sent four of their best players: Stephen Curry, Klay Thompson, Andre Iguodala, and Draymond Green to convince Durant to sign with the Warriors. Even though their record breaking season ended in dissapointment, the Warriors' consolation prize was [adding a former MVP and 4 time scoring champion, Kevin Durant to an already stacked roster](https://www.nba.com/history/top-moments/kevin-durant-signs-warriors-2016). Thus, the ["Hampton 5"](https://www.si.com/nba/2018/golden-state-warriors-hamptons-five-nickname-origin-history) lineup was born. 
+
+With a stacked roster, the Warriors have positioned themselves to rise as the NBA's new dynasty for years to come, generating talks of comparison to the the Michael Jordan's legendary '96 Chicago Bulls. 
+
+!["The Golden State Warriors' star-studded lineup led them to the team's second championship in 3 years"](https://cdn-s3.si.com/s3fs-public/styles/marquee_large_2x/public/2018/05/15/warriors-hamptons-five-lineup.jpg){width=750px}
+
+####Background: Record Breaking stars
+Led by the __Hampton 5__ lineup who closed out most games, the Warriors crushed the 2016 season. On the way to a 67-15 season, the Warriors ran over the competition, finishing with a +11.63 point differential ([the fourth highest of all time](https://en.wikipedia.org/wiki/2016%E2%80%9317_Golden_State_Warriors_season)).
+
+
+Klay Thompson became the [first player to ever scored 60 points under 30 minutes](http://www.espn.com/blog/golden-state-warriors/post/_/id/2976/klay-what-thompson-dropped-60-and-it-could-have-been-more), dropping 60 points in a win against the Pacers in 29 minutes on December 5, 2016. "Chef" Steph Curry broke the [NBA record for three-pointers made in a game](https://www.nba.com/article/2016/11/08/curry-record-3-pointers
+): he made 13 3-point shots against the Pelicans on November 6, 2016, cementing his bid for greatest shooter ever. Draymond Green became the first player to record [a triple-double without 10 points](https://www.sbnation.com/2017/2/10/14584492/draymond-green-triple-double-nba-history-warriors-vs-grizzlies): against the Grizzlies on Feburary 10, 2017, Green had 12 rebounds, 10 assists, 10 steals, and 5 blocks. 
+
+
+The warriors Wrapped up the regular season with the best record in the league. However, the job was not complete yet. 
+
+>"No one remembers second place," Warriors forward Draymond Green said. "No one cares who lost in the Finals. It's about winning. We're there, that's the first step, now it's about winning."
+
+Playing with the stinging memories of losing the last year's final, the Warriors pushed on the gas and cruised through the playoffs, sweeping the Western Conference. Entering the finals undefeated at [12-0](https://www.usatoday.com/story/sports/nba/playoffs/2017/05/22/warriors-sweep-spurs-advance-nba-finals/102032554/) had never been done before. In a rematch with Lebron James and the Cavaliers, the Warriors dropped only one game in a gentleman's sweep, winning 4-1. In doing so, they set another record: a historic [16-1](https://www.google.com/search?q=16-1%20playoff%20record) playoff performance, the best post-season record the NBA has ever seen. 
+
+Kevin Durant was named the unanimous [finals MVP](https://www.nba.com/article/2017/06/13/kevin-durant-earns-finals-mvp), averaging 35.2 points, 8.4 rebounds and 5.4 assists, while shooting 60 of 102 (.588) from the field throughout the finals. Nothing came easy for Durant:
+
+>“I couldn’t sleep for two days,” Durant said.  “I was anxious.  I was jittery.  I put in all the work and had to trust in it.”
+
+But in the end, the Warriors were well on their way to creating the league's new dynasty.
+
+![](https://i.ytimg.com/vi/RRTsQmGM53c/maxresdefault.jpg)
+So how did they crush the competition? What makes GSW such a scary team?
+
+#### Data: Shot Details of the Hampton 5
+
+Throughout the 2016-2017 season, the "Hampton 5" posted an offensive rating of 122.4 and a defensive rating of 98.4, a net rating of [+24.0](https://www.goldenstateofmind.com/2017/11/30/16722224/2017-nba-golden-state-warriors-death-lineup-steph-curry-kevin-durant-klay-thompson-hamptons-5). 
+
+
+Let's take a dive into what makes this lineup of Curry, Thompson, Durant, Green, and Iguodala so frighteningly effective. 
+
+#### Analysis: Efficiency of the the Hampton 5.
+
+A quick look at the shot charts of each player shows us the varied 
+
+#### Discussion: How the pieces fit perfectly together. 
+
+
+>“You know, you got most of the guys that can penetrate and make plays. It’s good for scorers like Klay, Steph and myself,” Durant said. “You know Andre and Draymond do all the utilities stuff like driving to the rim, getting stops, getting rebounds, and you know they were knocking down shots when they got the opportunity to shoot ‘em. I think we play off each other well.”- Kevin Durant
+
+#### Conclusion: Perhpas the best lineup of all time
+
+#### References:

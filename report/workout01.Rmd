@@ -1,7 +1,7 @@
 ---
 title: "_The Dominance of the 2016 Golden State Warriors: Perhaps the Best Team Ever_"
 author: "Daniel Yang"
-date: "3/11/2019"
+date: "3/13/2019"
 output: 
   github_document:
   fig_caption: TRUE
@@ -12,16 +12,16 @@ The 2015-2016 Golden State Warriors (GSW) turned heads by winning a staggering _
 
 After the Warriors' collapse in the finals- blowing a 3-1 lead to the Cleveland Cavaliers, they looked to boost the roster to make come back even stronger the next year. A few weeks after the season was over, free agent Kevin Durant expressed interest in joining them. At a meeting in the Hamptons on New York's Long island, the Warriors sent four of their best players: Stephen Curry, Klay Thompson, Andre Iguodala, and Draymond Green to convince Durant to sign with the Warriors. Even though their record breaking season ended in dissapointment, the Warriors' consolation prize was [adding a former MVP and 4 time scoring champion, Kevin Durant to an already stacked roster](https://www.nba.com/history/top-moments/kevin-durant-signs-warriors-2016). Thus, the ["Hampton 5"](https://www.si.com/nba/2018/golden-state-warriors-hamptons-five-nickname-origin-history) lineup was born. 
 
-With a stacked roster, the Warriors have positioned themselves to rise as the NBA's new dynasty for years to come, generating talks of comparison to the the Michael Jordan's legendary '96 Chicago Bulls. 
+With a stacked roster, the Warriors have positioned themselves to rise as the NBA's new dynasty for years to come, generating talks of comparison to Michael Jordan's legendary '96 Chicago Bulls, widely considered the best team of all time. So just why is this GSW team so good?
 
 !["The Golden State Warriors' star-studded lineup led them to the team's second championship in 3 years"](https://cdn-s3.si.com/s3fs-public/styles/marquee_large_2x/public/2018/05/15/warriors-hamptons-five-lineup.jpg){width=750px}
 
-####Background: Record Breaking stars
+####Background: Record Breaking Star Players
 Led by the __Hampton 5__ lineup who closed out most games, the Warriors crushed the 2016 season. On the way to a 67-15 season, the Warriors ran over the competition, finishing with a +11.63 point differential ([the fourth highest of all time](https://en.wikipedia.org/wiki/2016%E2%80%9317_Golden_State_Warriors_season)).
 
 
 Klay Thompson became the [first player to ever scored 60 points under 30 minutes](http://www.espn.com/blog/golden-state-warriors/post/_/id/2976/klay-what-thompson-dropped-60-and-it-could-have-been-more), dropping 60 points in a win against the Pacers in 29 minutes on December 5, 2016. "Chef" Steph Curry broke the [NBA record for three-pointers made in a game](https://www.nba.com/article/2016/11/08/curry-record-3-pointers
-): he made 13 3-point shots against the Pelicans on November 6, 2016, cementing his bid for greatest shooter ever. Draymond Green became the first player to record [a triple-double without 10 points](https://www.sbnation.com/2017/2/10/14584492/draymond-green-triple-double-nba-history-warriors-vs-grizzlies): against the Grizzlies on Feburary 10, 2017, Green had 12 rebounds, 10 assists, 10 steals, and 5 blocks. 
+): he made 13 3-point shots against the Pelicans on November 6, 2016, cementing his bid for greatest shooter ever. Draymond Green became the first player to record [a triple-double without 10 points](https://www.sbnation.com/2017/2/10/14584492/draymond-green-triple-double-nba-history-warriors-vs-grizzlies): against the Grizzlies on Feburary 10, 2017, Green had 12 rebounds, 10 assists, 10 steals, and 5 blocks. Draymond eventually won the [Defensive Player of the Year](https://www.google.com/search?q=dpoy%20draymond%20green) award.
 
 
 The warriors Wrapped up the regular season with the best record in the league. However, the job was not complete yet. 
@@ -32,29 +32,112 @@ Playing with the stinging memories of losing the last year's final, the Warriors
 
 Kevin Durant was named the unanimous [finals MVP](https://www.nba.com/article/2017/06/13/kevin-durant-earns-finals-mvp), averaging 35.2 points, 8.4 rebounds and 5.4 assists, while shooting 60 of 102 (.588) from the field throughout the finals. Nothing came easy for Durant:
 
->“I couldn’t sleep for two days,” Durant said.  “I was anxious.  I was jittery.  I put in all the work and had to trust in it.”
+>“I couldn’t sleep for two days,” Durant said. “I was anxious. I was jittI put in all the work and had to trust in it.”
 
-But in the end, the Warriors were well on their way to creating the league's new dynasty.
+Draymond Green, Stephen Curry and Kevin Durant were voted onto the all-nba teams (the league's recognition of the 15 best players). Those three, along with Klay Thompson, were voted as all stars, making it the fourth time in league history that a team had [four all-stars](https://www.nba.com/warriors/gameday/20170219/recap) on the court at the same time, leading many to joke that the Warriors were basically an all-star team by themselves.
 
-![](https://i.ytimg.com/vi/RRTsQmGM53c/maxresdefault.jpg)
+For his role in acquiring the talent on this stacked squad, the Warriors' front office head, Bob Myers, won the [Executive of the Year Award](https://en.wikipedia.org/wiki/2016%E2%80%9317_Golden_State_Warriors_season#cite_ref-dubs_stats_9-18).
+
+The Warriors were well on their way to creating the league's new dynasty.
+
+![](https://i.ytimg.com/vi/RRTsQmGM53c/maxresdefault.jpg){width=740px}
 So how did they crush the competition? What makes GSW such a scary team?
 
-#### Data: Shot Details of the Hampton 5
+#### Data: Details of the Hampton 5
+
+Evidently, adding another MVP to a roster consisting of the Defensive Player of the Year Draymond Green, former back to back MVP Stephen Curry, elite shooter Klay Thompson, and former finals MVP Andre Iguodala was going to create a talented team, but just how talented?
 
 Throughout the 2016-2017 season, the "Hampton 5" posted an offensive rating of 122.4 and a defensive rating of 98.4, a net rating of [+24.0](https://www.goldenstateofmind.com/2017/11/30/16722224/2017-nba-golden-state-warriors-death-lineup-steph-curry-kevin-durant-klay-thompson-hamptons-5). 
 
+```{r echo = FALSE, fig.align='center'}
+knitr::include_graphics('../images/gsw-shot-charts.png')
+```
 
-Let's take a dive into what makes this lineup of Curry, Thompson, Durant, Green, and Iguodala so frighteningly effective. 
+A quick glance at this chart shows us the variety of shots each player takes. Golden State is one of the best three-point shooting teams, and its not difficult to see why: the triple threat of Durant, Thompson, and Curry on the court create a monstorous offense. The Warriors became the first team to have [four different players make four three-pointers in a game](https://en.wikipedia.org/wiki/2016%E2%80%9317_Golden_State_Warriors_season#cite_ref-dubs_stats_9-18), and the shot charts show that the lineup takes _and makes_ shots from anywhere on the court range: the blue dots cover all the different sections of a court. We see that Curry and Thompson light it up from beyond the arc, but also get plenty of mid-range jumpers and layups. Durant can score everywhere on the field. Green and Iguodala shoot signifcantly less than the other three stars, but are not bad shooters themselves.  
+
+
+In the 2016 season, the Warriors had the league's highest offensive rating, led by the mighty trio of Curry, Thompson, and Durant. On the other hand, Green and Iguodala are excellent defenders that helped contribute to GSW's steallar defensive rating (2nd best in the league). In addition, Green and Iguodala can also shoot the three and make them at a decent clip. So when all 5 players are on the court, how do you guard them? 
+
+With this offensive firepower, it is no wonder that they win a lot of games. After all, the goal in a basketball game is to score more than your opponenet. So let's take a deeper dive into the offensive stats and what makes this lineup of Curry, Thompson, Durant, Green, and Iguodala so frighteningly effective. 
 
 #### Analysis: Efficiency of the the Hampton 5.
 
-A quick look at the shot charts of each player shows us the varied 
+The Warriors _as a team_ shot a riduculous 38.9% from three-point range (compared to the league average of 35.8%) and led the league at 55.7% accuracy from the two point range and 49.5% overall shooting. However, the __Hampton 5__, who posted an offensive rating of 122.4 far eclipse the league average rating of 108.8. The numbers back up this scoring: 
+
+```{r echo=FALSE, warning = FALSE, message= FALSE}
+#loading necessary packages
+library(readr)
+library(dplyr)
+
+#importing data set
+data_shots <- read_csv("../data/shots-data.csv")
+data_shots$name <- as.factor(data_shots$name)
+data_shots <- data_shots %>% group_by(name)
+data_shots_2 <- data_shots %>% filter(shot_type == "2PT Field Goal")
+data_shots_3 <- data_shots %>% filter(shot_type == "3PT Field Goal")
+```
+
+```{r echo=FALSE, comment="",message=FALSE}
+#creating summary tables
+effective_shooting <- 
+  arrange(
+    summarize(
+     group_by(data_shots, name),
+       total = n(), made = sum(shot_made_flag == "shot_yes"), perc_made = (made/total)*100),
+      desc(perc_made))
+effective_shooting_2 <- 
+  arrange(
+    summarize(
+     group_by(data_shots_2, name),
+       total = n(), made = sum(shot_made_flag == "shot_yes"), perc_made = (made/total)*100),
+      desc(perc_made))
+effective_shooting_3 <- 
+  arrange(
+    summarize(
+     group_by(data_shots_3, name),
+       total = n(), made = sum(shot_made_flag == "shot_yes"), perc_made = (made/total)*100),
+      desc(perc_made))
+```
+      
+Compared to a league average scoring efficiency 
+
+
+Golden State is feared for their sharshooting from distance, and for good reason. As legenedary Spurs coach Gregg Popovich put it: 
+
+>“[The Spalsh Brothers are] the greatest shooting backcourt in the history of the NBA, there’s no doubt. They are the two best shooters — regardless of position — in the history of the NBA.”
+
+```{r echo=FALSE,}
+
+```
+
+Its not just that Curry and Thompson are perhaps the best shooting backcourt in history. They also shoot __alot__, hence the nickname the "Splash Brothers." Curry was first in made 3's, while Thompson is second in the league. This volume shooting is more crazy considering that the pair were also in the [top 15](https://stats.nba.com/leaders/?Season=2016-17&SeasonType=Regular%20Season&PerMode=Totals&StatCategory=FG3M) in three-point shooting accuracy. 
+
+Durant is lethal from the midrange jumper. Although his three-point percentage is lower than the "Splash Brothers," there is a reason why he has consistently been one of the best offensive players ever since he entered the league. 
 
 #### Discussion: How the pieces fit perfectly together. 
 
 
 >“You know, you got most of the guys that can penetrate and make plays. It’s good for scorers like Klay, Steph and myself,” Durant said. “You know Andre and Draymond do all the utilities stuff like driving to the rim, getting stops, getting rebounds, and you know they were knocking down shots when they got the opportunity to shoot ‘em. I think we play off each other well.”- Kevin Durant
 
-#### Conclusion: Perhpas the best lineup of all time
+And this group of players 
+
+#### Conclusion: Perhpas the best lineup of all time?
+
+Thes statistics confirm the obvious. The addition of a [4 time scoring champion](https://en.wikipedia.org/wiki/Kevin_Durant)(leader in average scoring out of all players) in Durant to one of the most accurate backcourts the "Splash Brothers" creates an unstoppable offense. Opposing defenses
+
+So are the 2016 Warriors the best team of all time? Coach Steve Kerr has certainly cultivated a winning culuture. 
+
+>What we’re trying to do is embrace who we are in this moment in time. Time and space where, man, we’ve got a pretty good thing going. Let’s enjoy every day, let’s enjoy the process. You never know how long anything’s going to last.”
+
+Fast forward to the middle of the 2018 season, and the Warriors hold onto the first seed and continue to look like favorites for the title: which would be their third in a row. 
+
+So is the 2016 Warriors team the best of all time? Maybe not after the 2018 Warriors signed all star Demarcus Cousins to create one of the best starting five the league has ever seen. But in the 2016 season, GSW was absolutely unstoppable.
 
 #### References:
+
+1. [Basketball Stats](https://www.basketball-reference.com/leagues/NBA_2017.html)
+2. Images:
+    + https://cdn-s3.si.com/s3fs-public/styles/marquee_large_2x/public/2018/05/15/warriors-hamptons-five-lineup.jpg
+    + https://cdn-s3.si.com/s3fs-public/styles/marquee_large_2x/public/2018/05/15/warriors-hamptons-five-lineup.jpg
+3. Various Sources about broken records:
+    + https://www.nba.com/history/top-moments/golden-state-warriors-win-73-games
